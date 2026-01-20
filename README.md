@@ -4,7 +4,7 @@
 
 ## Examining the history of Lego sets.
 
-The Rebrickable dataset includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, etc. It might be small bricks, but this is big data! In this project, you will use this dataset together with the pandas library to dig into the history of Lego's licensed sets, including uncovering the percentage of all licensed sets that are Star Wars themed.
+The Rebrickable dataset includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, etc. 
 
 ## Where did I get my data from?
 
@@ -14,3 +14,8 @@ The LEGO Parts/Sets/Colors and Inventories of every official LEGO set in the Reb
 
 see https://rebrickable.com/downloads/
 
+## How to view my analysis:
+
+All my code for this can be found in this notebook: [Lego analysis](LEGO_Data_Analysis.ipynb).
+
+![flowers.png](imgs/flowers.png)
