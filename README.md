@@ -14,7 +14,7 @@ The LEGO Parts/Sets/Colors and Inventories of every official LEGO set in the Reb
 
 see https://rebrickable.com/downloads/
 
-## How to view my analysis:
+## 🌟How to view my analysis:
 
 All my code for this can be found in this notebook: [Lego analysis](LEGO_Data_Analysis.ipynb).
 
