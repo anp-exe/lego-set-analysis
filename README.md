@@ -1,4 +1,4 @@
-# Lego set analysis
+# Lego set analysis🧱🧸
 
 ![legoswalk.png](imgs/legoswalk.png)
 
